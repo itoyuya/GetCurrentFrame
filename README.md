@@ -1,6 +1,6 @@
-#GetCurrentFrame
+# GetCurrentFrame
 
-##Overview
+## Overview
 Max8で動画再生する際に、現在のフレーム位置を出力するパッチ  
 The max-patch is able to get the current frame number of the movie when the movie play.  
 
